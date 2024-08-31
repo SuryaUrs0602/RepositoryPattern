@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|d:\\entityframeworkcore\\repositorypatternimplementation\\repositorypatternimplementation\\models\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|solutionrelative:repositorypatternimplementation\\models\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|d:\\entityframeworkcore\\repositorypatternimplementation\\repositorypatternimplementation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|solutionrelative:repositorypatternimplementation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|d:\\entityframeworkcore\\repositorypatternimplementation\\repositorypatternimplementation\\models\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|solutionrelative:repositorypatternimplementation\\models\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|d:\\entityframeworkcore\\repositorypatternimplementation\\repositorypatternimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|solutionrelative:repositorypatternimplementation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|d:\\entityframeworkcore\\repositorypatternimplementation\\repositorypatternimplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|solutionrelative:repositorypatternimplementation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|d:\\entityframeworkcore\\repositorypatternimplementation\\repositorypatternimplementation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|solutionrelative:repositorypatternimplementation\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|d:\\entityframeworkcore\\repositorypatternimplementation\\repositorypatternimplementation\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|solutionrelative:repositorypatternimplementation\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|d:\\entityframeworkcore\\repositorypatternimplementation\\repositorypatternimplementation\\repositorypatternimplementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|solutionrelative:repositorypatternimplementation\\repositorypatternimplementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|d:\\entityframeworkcore\\repositorypatternimplementation\\repositorypatternimplementation\\migrations\\20240806080028_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBEE59A-BEA3-4D7E-958F-39FA298332DF}|RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj|solutionrelative:repositorypatternimplementation\\migrations\\20240806080028_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternImplementation\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "RepositoryPatternImplementation\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:05:24.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Models\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternImplementation\\Models\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Models\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "RepositoryPatternImplementation\\Models\\Repository\\StudentRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:26:37.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Models\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternImplementation\\Models\\Repository\\IStudentRepository.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Models\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "RepositoryPatternImplementation\\Models\\Repository\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:23:03.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Program.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternImplementation\\Program.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Program.cs",
+              "RelativeToolTip": "RepositoryPatternImplementation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:15:36.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240806080028_InitialCreate.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Migrations\\20240806080028_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternImplementation\\Migrations\\20240806080028_InitialCreate.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Migrations\\20240806080028_InitialCreate.cs",
+              "RelativeToolTip": "RepositoryPatternImplementation\\Migrations\\20240806080028_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:00:28.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\appsettings.json",
+              "RelativeDocumentMoniker": "RepositoryPatternImplementation\\appsettings.json",
+              "ToolTip": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\appsettings.json",
+              "RelativeToolTip": "RepositoryPatternImplementation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-06T06:14:15.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternImplementation\\Models\\StudentDbContext.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "RepositoryPatternImplementation\\Models\\StudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:11:33.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "RepositoryPatternImplementation\\Models\\Student.cs",
+              "ToolTip": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\Models\\Student.cs",
+              "RelativeToolTip": "RepositoryPatternImplementation\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:08:31.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositoryPatternImplementation.csproj",
+              "DocumentMoniker": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj",
+              "RelativeDocumentMoniker": "RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj",
+              "ToolTip": "D:\\EntityFrameworkCore\\RepositoryPatternImplementation\\RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj",
+              "RelativeToolTip": "RepositoryPatternImplementation\\RepositoryPatternImplementation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T06:05:54.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
